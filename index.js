@@ -14,8 +14,9 @@ function yourAnimal() {
 
 function add2(n) {
   const two = 2
+  console.log(n)
   n = n + two
-
+  console.log(n)
   // Feel free to move things around!
 }
 
