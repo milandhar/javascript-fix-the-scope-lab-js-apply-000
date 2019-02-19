@@ -17,6 +17,7 @@ function add2(n) {
   console.log(n)
   n = n + two
   console.log(n)
+  return n;
   // Feel free to move things around!
 }
 
